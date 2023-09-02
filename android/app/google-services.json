@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221829676698",
+    "project_id": "flutterfire-17a70",
+    "storage_bucket": "flutterfire-17a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221829676698:android:4231846f87feddd9f46923",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221829676698-fu98vqs389tef52mdt0sbig73mp62vmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5loD2UFH_uPcjJvO7oKh29h1YCiLZFRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221829676698-fu98vqs389tef52mdt0sbig73mp62vmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
